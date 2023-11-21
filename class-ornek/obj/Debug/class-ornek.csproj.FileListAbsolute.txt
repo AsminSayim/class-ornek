@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\class-ornek\class-ornek\bin\Debug\class-ornek.exe.config
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\class-ornek\class-ornek\bin\Debug\class-ornek.exe
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\class-ornek\class-ornek\bin\Debug\class-ornek.pdb
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\class-ornek\class-ornek\obj\Debug\class-ornek.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\class-ornek\class-ornek\obj\Debug\class-ornek.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\class-ornek\class-ornek\obj\Debug\class_ornek.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\class-ornek\class-ornek\obj\Debug\class_ornek.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\class-ornek\class-ornek\obj\Debug\class-ornek.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\class-ornek\class-ornek\obj\Debug\class-ornek.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\class-ornek\class-ornek\obj\Debug\class-ornek.exe
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\class-ornek\class-ornek\obj\Debug\class-ornek.pdb
